@@ -1,4 +1,4 @@
-# Case-Studies-Python
+# Case-Studies-Python - Edited by Vivek
 
 This repository is a companion to the textbook <a href="https://mitpress.ublish.com/book/case-studies-neural-data-analysis" rel="external" target="_blank">Case Studies in Neural Data Analysis</a>, by Mark Kramer and Uri Eden. That textbook uses MATLAB to analyze examples of neuronal data. The material here is  similar, except that we use Python.
 
